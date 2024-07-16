@@ -1,0 +1,15 @@
+video-classification/
+├── data/
+│   ├── UCF101_subset/
+│   └── (other data if needed)
+├── scripts/
+│   ├── download_data.py
+│   ├── preprocess_data.py
+│   ├── train.py
+│   ├── evaluate.py
+│   └── inference.py
+├── models/
+│   └── (saved models and checkpoints)
+├── requirements.txt
+└── README.md
+
